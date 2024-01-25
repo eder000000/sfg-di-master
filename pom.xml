@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>com.eder000000</groupId>
 	<artifactId>sfg-di</artifactId>
-	<version>  0.0.2:</version>
+	<version>0.0.2</version>
 	<name>sfg-di</name>
 	<description>Dependency injection demo</description>
 	<properties>
